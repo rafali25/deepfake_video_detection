@@ -15,6 +15,7 @@ This project aims to detect deepfake videos by using a machine learning model. I
   - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
+- [Dataset](#dataset)
 
 ---
 
@@ -132,3 +133,11 @@ Here are some sample predictions made by the model:
 
 These results demonstrate that the deepfake detection model is reliable and effective for real-world applications.
 
+### Dataset
+
+This project uses the [Deepfake Detection Challenge (DFDC) dataset](https://www.kaggle.com/datasets/ashifurrahman34/dfdc-dataset) from Kaggle by ashifurrahman34.
+
+
+- **Embeddings**: [DFDC embeddings](https://www.kaggle.com/datasets/ekplatebiryani/embeddings-for-sih/data)
+
+To use this dataset, you may need to create a [Kaggle account](https://www.kaggle.com/ekplatebiryani) if you don't already have one.
